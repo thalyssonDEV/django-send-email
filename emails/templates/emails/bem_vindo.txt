@@ -1,0 +1,5 @@
+Olá, {{ nome_usuario }}!
+
+Este é um e-mail de teste enviado a partir de um script Django.
+
+Atenciosamente, Django
